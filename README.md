@@ -95,3 +95,6 @@ python todo_list_app.py
    No tasks available.
    ```
 
+## Author
+- Created and maintained by **Sohag Chakraborty**  
+  GitHub: [**@csesohag02**](https://github.com/csesohag02)
